@@ -1,7 +1,7 @@
 # About Me:
-🔭 I’m currently working at Amazon as a Software Development Manager where I design and build distributed services.<br>
-💬 I have a passion for understanding how systems work and finding new ways to push the boundaries of technology.<br>
-🌱 I’m currently learning Tonic, Leptos, and OpenTelemetry.<br>
+🔭 I’m currently working at Amazon as a Software Development Manager where I design and build distributed services<br>
+💬 I have a passion for understanding how systems work and finding new ways to push the boundaries of technology<br>
+🌱 I’m currently learning Tonic, Leptos, and OpenTelemetry<br>
 
 
 ## 🌐 Socials:
@@ -25,7 +25,7 @@
 <!-- ![](https://github-readme-stats.vercel.app/api?username=emersonmde&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=emersonmde&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=emersonmde&theme=onestar&no-frame=false&no-bg=false&margin-w=4&margin-h=4&rank=-?&column=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=emersonmde&icon=0&color=3)](https://visitcount.itsvg.in)
