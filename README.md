@@ -1,7 +1,7 @@
 # About Me:
-🔭 I’m currently working at Amazon as a Software Development Manager where I design and build distributed services<br>
-💬 I have a passion for understanding how systems work and finding new ways to push the boundaries of technology<br>
-🌱 I’m currently learning Tonic, Leptos, and OpenTelemetry<br>
+🔭 I’m currently working at Amazon as a Software Development Manager<br>
+💬 I have a passion for understanding how systems work with a particular interest in low level protocols and algorithms<br>
+🌱 I’m currently learning how to build an operating system in Rust<br>
 
 
 ## 🌐 Socials:
