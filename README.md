@@ -4,9 +4,6 @@
 🌱 I’m currently learning how to build an operating system in Rust<br>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emersonmde)
-
 # 💻 Tech:
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -24,8 +21,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=emersonmde&theme=dark&hide_border=false)<br>
 <!-- ![](https://github-readme-stats.vercel.app/api?username=emersonmde&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=emersonmde&theme=onestar&no-frame=false&no-bg=false&margin-w=4&margin-h=4&rank=-?&column=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=emersonmde&icon=0&color=3)](https://visitcount.itsvg.in)
+-->
