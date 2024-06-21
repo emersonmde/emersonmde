@@ -1,7 +1,7 @@
 # About Me:
-🔭 I’m currently working at Amazon as a Software Development Manager<br>
+🔭 I work at Amazon as a Software Development Manager<br>
 💬 I have a passion for understanding how systems work with a particular interest in low level protocols and algorithms<br>
-🌱 I’m currently learning how to build an operating system in Rust<br>
+🌱 I’m currently building a statically typed framework for working with LLMs in Rust<br>
 
 
 # 💻 Tech:
