@@ -1,9 +1,3 @@
-# About Me:
-🔭 I work at Amazon as a Software Development Manager<br>
-💬 I have a passion for understanding how systems work with a particular interest in low level protocols and algorithms<br>
-🌱 I’m currently building a statically typed framework for working with LLMs in Rust<br>
-
-
 # 💻 Tech:
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
